@@ -152,7 +152,6 @@
 }
 
 .card img {
-  width: 49%;
   object-fit: contain;
   /* height: -webkit-fill-available; */
   margin-left: auto;
