@@ -17,7 +17,6 @@ function App() {
 
         {router}
 
-        {/* Finish Content */}
       </div>
     </CartContextProvider>
   );
